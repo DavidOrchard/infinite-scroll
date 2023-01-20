@@ -33,6 +33,10 @@ The goal is to deliver a user experience that feels as seamless as possible.
 - There is an optional included `useScrollPosition` hook that you can use to quickly get the current scroll position.
 
 
+# Useful links
+https://blog.logrocket.com/virtual-scrolling-core-principles-and-basic-implementation-in-react/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
